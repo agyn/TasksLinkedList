@@ -7,4 +7,7 @@ public class SingleNode<T> {
     public SingleNode(T value){
         _value = value;
     }
+
+    public SingleNode(){
+    }
 }
